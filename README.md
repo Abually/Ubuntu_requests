@@ -23,3 +23,11 @@ Create the directory if it doesn't exist using os.makedirs() with exist_ok=Tr
 Extract the filename from the URL or generate one if not available
 
 Save the image in binary mode
+
+Modify the program to handle multiple URLs at once.
+
+Implement precautions that you should  take when downloading files from unknown sources.
+
+Implement a feature that prevents downloading duplicate images.
+
+Implement what HTTP headers might be important to check before saving the response content.
